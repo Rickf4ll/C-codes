@@ -1,0 +1,13 @@
+C:\Users\estudiante\source\repos\solAcademico\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\estudiante\source\repos\solAcademico\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\estudiante\source\repos\solAcademico\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\estudiante\source\repos\solAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\estudiante\source\repos\solAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\estudiante\source\repos\solAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\estudiante\source\repos\solAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\source\repos\solAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\estudiante\source\repos\solAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\estudiante\source\repos\solAcademico\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\estudiante\source\repos\solAcademico\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\estudiante\source\repos\solAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\estudiante\source\repos\solAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
